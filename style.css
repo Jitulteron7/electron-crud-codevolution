@@ -1,0 +1,15 @@
+header{
+    -webkit-app-region:drag;
+  }
+.banner{
+    font-size:3rem;
+    color:royalblue;
+}
+footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+.container{
+    padding:2% 5%;
+}
